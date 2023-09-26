@@ -1,4 +1,3 @@
-# Auto detect text files and perform LF normalization
 import tkinter as tk
 from tkinter import messagebox
 
@@ -131,4 +130,3 @@ new_address_entry.pack()
 
 # Start the main loop
 root.mainloop()
-* text=auto
